@@ -1,4 +1,11 @@
 # financial_market_prediction_project
+
+## Members
+
+Chris Nguyen
+
+Hadyn Anderson 
+
 ## Introduction
 This is a group Project from Neural Network.
 Financial market prediction models often fall short due to the volatile and chaotic nature of markets; the volatility creates unwanted noise when pricing many instruments, leading to over-fitting and poor model performance. Pricing data in short-term timeframes is susceptible to random fluctuations, this randomness increases with a lower amount of liquidity in the markets. However, in long-term timeframes, many financial instruments are found to form linear or exponential patterns. 
